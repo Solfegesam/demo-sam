@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./assets/project-poster.png" alt="Project Poster" width="100%">
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/09de6335-9d18-49b6-a92b-d7983fd911a6" />
+
 </p>
 
 # IYF Alumni Networking Platform
